@@ -11,7 +11,7 @@
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash",
-		"workbench.colorTheme": "Red"
+		"workbench.colorTheme": "Hot Dog Stand"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
@@ -21,7 +21,8 @@
 		"esbenp.prettier-vscode",
 		"ms-azuretools.vscode-docker",
 		"chris-noring.node-snippets",
-		"humao.rest-client"
+		"humao.rest-client",
+		"somekittens.hot-dog-stand"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
